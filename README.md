@@ -1,2 +1,2 @@
 # hello-world
-general rep
+My general rep, created initially.
